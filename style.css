@@ -1,0 +1,24 @@
+h1, ul {
+    color: white;
+}
+
+h1 {
+    background-color: red;
+    font-size: 32px;
+    align: center;
+    font-weight: bold;
+}
+
+ul, ol {
+    font-size: 18px;
+}
+
+ul {
+    background-color: green;
+    
+}
+
+ol {
+    background-color: orange;
+    color: black;
+}
